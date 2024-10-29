@@ -1,0 +1,16 @@
+body {
+    background-color: white;
+}
+
+div.cuerpo{
+    color: black;
+    font-size: 20pt;
+}
+
+#ocupacion {
+    color: blue;
+}
+
+.intro {
+    color: red;
+}
